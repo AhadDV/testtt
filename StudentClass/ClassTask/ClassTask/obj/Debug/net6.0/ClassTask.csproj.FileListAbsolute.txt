@@ -1,0 +1,45 @@
+C:\Users\amil\source\repos\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.exe
+C:\Users\amil\source\repos\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.deps.json
+C:\Users\amil\source\repos\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.runtimeconfig.json
+C:\Users\amil\source\repos\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.dll
+C:\Users\amil\source\repos\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.AssemblyReference.cache
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.dll
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\refint\ClassTask.dll
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.pdb
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.genruntimeconfig.cache
+C:\Users\amil\source\repos\ClassTask\ClassTask\obj\Debug\net6.0\ref\ClassTask.dll
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.exe
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.deps.json
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.runtimeconfig.json
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.dll
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.AssemblyReference.cache
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.dll
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\refint\ClassTask.dll
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.pdb
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.genruntimeconfig.cache
+C:\Users\amila\Desktop\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ref\ClassTask.dll
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.exe
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.deps.json
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.runtimeconfig.json
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.dll
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.dll
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\refint\ClassTask.dll
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.pdb
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\Senior Amil\StudentClass\ClassTask\ClassTask\obj\Debug\net6.0\ref\ClassTask.dll
